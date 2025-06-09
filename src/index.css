@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opsional: Terapkan font Inter ke body */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Tambahkan CSS kustom Anda di bawah ini jika ada */
