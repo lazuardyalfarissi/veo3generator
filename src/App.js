@@ -160,7 +160,7 @@ function App() {
         }
       };
 
-      const apiKey = ""; // Canvas will automatically provide it in runtime
+      const apiKey = "AIzaSyCa0UMtxkzuDf6bWfpFYE2l-_78AyHjMpc"; // Canvas will automatically provide it in runtime
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
       const response = await fetch(apiUrl, {
@@ -239,7 +239,7 @@ function App() {
         }
       };
 
-      const apiKey = "";
+      const apiKey = "AIzaSyCa0UMtxkzuDf6bWfpFYE2l-_78AyHjMpc";
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
       const response = await fetch(apiUrl, {
@@ -313,7 +313,7 @@ function App() {
         }
       };
 
-      const apiKey = "";
+      const apiKey = "AIzaSyCa0UMtxkzuDf6bWfpFYE2l-_78AyHjMpc";
       const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
       const response = await fetch(apiUrl, {
